@@ -78,11 +78,11 @@ sha256sum -c checksums.txt --ignore-missing
 - ✨ **功能建议**：[提交 Issue](https://github.com/ai-agent-home/gal-release/issues/new?labels=enhancement)
 - 💬 **讨论 / 问答**：[发起讨论](https://github.com/ai-agent-home/gal-release/discussions)
 
-也可以通过[官网反馈页](https://gal-ai.dev/feedback.html)提交反馈。
+也可以通过[官网反馈页](https://agent-home.ai/feedback.html)提交反馈。
 
 ---
 
 ## 链接
 
-- [官方网站](https://gal-ai.dev) - 文档、下载页、反馈
+- [官方网站](https://agent-home.ai) - 文档、下载页、反馈
 - [所有版本](https://github.com/ai-agent-home/gal-release/releases)
