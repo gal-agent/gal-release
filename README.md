@@ -2,7 +2,7 @@
 
 [中文](README_CN.md)
 
-**An LLM you can let loose.** One binary. CLI, GUI, and IM server. Linux, macOS, Windows. Zero install, kernel-level safe by default.
+**An LLM agent you can let loose.** One binary. CLI, GUI, and IM server. Linux, macOS, Windows. Zero install, kernel-level safe by default.
 
 ![GAL CLI](image/gal-cli.png)
 
