@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-**可以放手干活的 LLM。** 一个二进制，CLI / GUI / IM 服务三种形态。Linux、macOS、Windows 全平台支持，零安装、内核级安全。
+**可以放手干活的 LLM agent。** 一个二进制，CLI / GUI / IM 服务三种形态。Linux、macOS、Windows 全平台支持，零安装、内核级安全。
 
 ![GAL CLI](image/gal-cli.png)
 
