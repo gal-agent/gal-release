@@ -42,7 +42,7 @@ Model-driven memory lets the LLM decide what to summarize and what to keep. Tens
 
 ## Downloads
 
-Each [Release](https://github.com/ai-agent-home/gal-release/releases) contains platform-specific archives. The binary inside each archive has a clean name (`gal` / `galw`) - platform info is encoded in the archive name only.
+Each [Release](https://github.com/gal-agent/gal-release/releases) contains platform-specific archives. The binary inside each archive has a clean name (`gal` / `galw`) - platform info is encoded in the archive name only.
 
 | Platform | CLI (`gal`) | GUI (`galw`) |
 |----------|-------------|--------------|
@@ -76,9 +76,9 @@ sha256sum -c checksums.txt --ignore-missing
 
 ## Issues & Feedback
 
-- 🐛 **Bug reports**: [Open an issue](https://github.com/ai-agent-home/gal-release/issues/new?labels=bug)
-- ✨ **Feature requests**: [Open an issue](https://github.com/ai-agent-home/gal-release/issues/new?labels=enhancement)
-- 💬 **Discussions / Q&A**: [Start a discussion](https://github.com/ai-agent-home/gal-release/discussions)
+- 🐛 **Bug reports**: [Open an issue](https://github.com/gal-agent/gal-release/issues/new?labels=bug)
+- ✨ **Feature requests**: [Open an issue](https://github.com/gal-agent/gal-release/issues/new?labels=enhancement)
+- 💬 **Discussions / Q&A**: [Start a discussion](https://github.com/gal-agent/gal-release/discussions)
 
 You can also submit feedback via the [official website](https://agent-home.ai/feedback.html).
 
@@ -87,4 +87,4 @@ You can also submit feedback via the [official website](https://agent-home.ai/fe
 ## Links
 
 - [Official Website](https://agent-home.ai) - docs, download page, feedback
-- [Releases](https://github.com/ai-agent-home/gal-release/releases) - all versions
+- [Releases](https://github.com/gal-agent/gal-release/releases) - all versions
