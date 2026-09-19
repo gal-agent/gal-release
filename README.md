@@ -2,9 +2,9 @@
 
 [中文](README_CN.md)
 
-**An LLM agent you can let loose.** One binary. CLI, GUI, and IM server. Linux, macOS, Windows. Zero install, kernel-level safe by default.
+**GAL — General Agent Loop & Executor.** An LLM agent you can let loose. One binary. CLI, GUI, and IM server. Linux, macOS, Windows. Zero install, kernel-level safe by default.
 
-![GAL CLI](image/gal-cli.png)
+![GAL](image/gal-cli.png)
 
 ```bash
 # Linux / macOS
@@ -15,11 +15,7 @@
 
 ---
 
-## Why GAL
-
-Agentic loops are table stakes now - plenty of tools let an LLM call tools and iterate until done. GAL's bet is on the parts those tools skip: **the same product across CLI, GUI, and IM, on Linux / macOS / Windows, with a kernel-enforced sandbox you can leave on in production - no Docker, no remote sandbox, no per-tool permission prompts.**
-
-| Form factor | Binary | Install |
+ | Binary | Install |
 |-------------|--------|---------|
 | Terminal / SSH | `gal` | copy file, run |
 | Desktop GUI | `galw` | copy file, double-click |

@@ -2,9 +2,9 @@
 
 [English](README.md)
 
-**可以放手干活的 LLM agent。** 一个二进制，CLI / GUI / IM 服务三种形态。Linux、macOS、Windows 全平台支持，零安装、内核级安全。
+**GAL —— General Agent Loop & Executor。可以放手干活的 LLM 智能体。** 一个二进制，CLI / GUI / IM 服务三种形态。Linux、macOS、Windows 全平台支持，零安装、内核级安全。
 
-![GAL CLI](image/gal-cli.png)
+![GAL](image/gal-cli.png)
 
 ```bash
 # Linux / macOS
@@ -15,11 +15,7 @@
 
 ---
 
-## 为什么选 GAL
-
-agentic loop 早就不是稀罕事了 - 能让 LLM 自主调用工具循环到完成的工具一抓一大把。GAL 的差异在那些工具跳过的地方：**CLI、GUI、IM 一套引擎，Linux / macOS / Windows 一致体验，自带内核级沙箱可以放心地常驻生产环境 - 不需要 Docker，不依赖远端 sandbox，也不靠每一步弹窗确认。**
-
-| 形态 | 二进制 | 安装 |
+ | 二进制 | 安装 |
 |------|--------|------|
 | 终端 / SSH | `gal` | 拷过去，运行 |
 | 桌面 GUI | `galw` | 拷过去，双击 |
