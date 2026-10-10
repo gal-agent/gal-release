@@ -80,6 +80,14 @@ You can also submit feedback via the [official website](https://agent-home.ai/fe
 
 ---
 
+## Community
+
+Scan the QR code to join the user feedback group (Feishu):
+
+<p align="center"><img src="image/feishu.png" alt="User feedback group QR code" width="220"></p>
+
+---
+
 ## Links
 
 - [Official Website](https://agent-home.ai) - docs, download page, feedback

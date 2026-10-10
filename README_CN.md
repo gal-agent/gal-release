@@ -80,6 +80,14 @@ sha256sum -c checksums.txt --ignore-missing
 
 ---
 
+## 交流群
+
+扫码加入用户反馈交流群（飞书）：
+
+<p align="center"><img src="image/feishu.png" alt="用户反馈交流群二维码" width="220"></p>
+
+---
+
 ## 链接
 
 - [官方网站](https://agent-home.ai) - 文档、下载页、反馈
