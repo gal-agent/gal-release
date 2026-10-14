@@ -13,6 +13,8 @@
 # Windows GUI - double-click galw.exe, done.
 ```
 
+<p align="center"><img src="image/desktop.png" alt="GAL desktop GUI" width="720"></p>
+
 ---
 
  | Binary | Install |

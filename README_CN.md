@@ -13,6 +13,8 @@
 # Windows GUI - 双击 galw.exe 即可
 ```
 
+<p align="center"><img src="image/desktop.png" alt="GAL 桌面端界面" width="720"></p>
+
 ---
 
  | 二进制 | 安装 |
